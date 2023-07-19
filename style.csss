@@ -1,0 +1,177 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(240, 237, 237);
+}
+.gamer-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gamer {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(213, 210, 210);
+    border-radius: 10px;
+    width: 180px;
+    height: 30px;
+}
+
+.menu {
+    display: flex;
+}
+
+#b {
+    padding: 0px 20px;
+}
+
+#a {
+    color: red;
+    padding: 0px 10px;
+}
+/* nav section end */
+
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 100px;
+    /* padding: 0px 100px; */
+}
+
+.box1 {
+    /* background-image: url(images/Group\ 14.png);
+    padding-top: 70px; */
+
+}
+
+.box2 {
+    /* border: 2px solid blue; */
+    padding: 20px;
+
+}
+
+#imgs {
+    max-width: 100%;
+}
+
+.play {
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.goat {
+    font-size: 95px;
+    font-weight: 800;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.c {
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.btn1,
+.btn2 {
+    padding: 7px 20px;
+    border-radius: 15px;
+    border: none;
+    color: azure;
+}
+
+.btn1 {
+    background-color: #FF42A5;
+}
+
+.btn2 {
+    background: #4EC5F7;
+}
+
+#imgs {
+    width: 450px;
+}
+
+
+.We-are-gamer {
+    background-color: #FFF9FC;
+}
+
+.step1-container {
+    margin: 0px 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFF9FC;
+}
+
+.step1-box1 {
+    max-width: 100%;
+}
+
+#pngwing-4 {
+    width: 600px;
+}
+
+.step1-box2 {
+    text-align: end;
+}
+
+.step1-line1 {
+    font-size: 40px;
+    font-weight: 700;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.step1-line2 {
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.step1-btn {
+    background-color: #F948B2;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    color: wheat;
+    border: none;
+    border-radius: 20px;
+    margin: 10px 0px;
+}
+
+#step1-1 {
+    color: gray;
+    font-size: 20px;
+}
+
+#step1-2 {
+    font-size: 25px;
+    font-weight: 700;
+}
